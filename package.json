@@ -1,0 +1,16 @@
+{
+  "name": "now-you-see-me",
+  "description": "Commit generated files on release but hide them during development",
+  "bin": {
+    "git-hide": "./git-hide.sh",
+    "git-unhide": "./git-unhide.sh"
+  },
+  "engines": {
+    "npm" : ">= 2.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Spindler <os@oliverspindler.com>",
+  "license": "MIT"
+}
