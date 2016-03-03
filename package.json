@@ -6,11 +6,12 @@
     "git-unhide": "./git-unhide.sh"
   },
   "engines": {
-    "npm" : ">= 2.13.0"
+    "npm": ">= 2.13.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Oliver Spindler <os@oliverspindler.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "0.1.0"
 }
